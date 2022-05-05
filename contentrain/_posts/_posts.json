@@ -1,20 +1,20 @@
 [
   {
     "createdAt": 1648738994172,
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.\n\nVenenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.\n\n## Lorem Ipsum\n\nTristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.",
-    "title": "Dynamic Routing and Static Generation",
+    "content": "Power Over Ethernet (PoE) teknolojisi, ethernet kablosuyla veri ve elektrik gücünün tek bir kabloda güvenli bir şekilde taşınmasını sağlayan teknolojidir. İlk olarak 2000 yılında geliştirilen bu teknoloji, IP telefonlarla birlikte yaygınlaşmaya başladı. Kablosuz ağların ortaya çıkmasıyla birlikte PoE, ayrıca elektriğin bulunmadığı alanlarda kablosuz erişim noktalarına güç sağlamak için de kullanılır. \n\nNeden PoE Switch?\n\nPoE, ayrı veri ve güç kablolarına olan ihtiyacı ortadan kaldırarak ağda basitlik ve maliyet avantajı sağlar. PoE teknolojisi bağlantı noktası başına 90 Watt'a kadar tek kablodan güç aktarımına olanak tanır. Bu teknoloji aynı zamanda cihazların boşta kalma sürelerini düşürerek güç tüketimini azaltan özelliklere sahiptir. Ayrıca PoE sayesinde uzak cihaza iletilen gücün miktarı güç verilen cihaz arasında paylaşılabilir ve uzaktan yönetilebilir. \n\nPoE'nin Avantajları:\n\nKurulum için tek bir kablo yeterlidir\nElektrik güç kaynağının cihaza olan uzaklığı sisteme engel olmaz\nHedef cihazlar uzaktan kapatılabilir veya yeniden başlatılabilir\nÇok az yapılandırma ve yönetim gerektirir\n",
+    "title": "PoE Switch Nedir?",
     "categories": [
       "lorem",
       "ipsum"
     ],
     "ID": "bd2805d9-2da7-4676-b5ca-0fb7c3db6ac5",
-    "slug": "dynamic-routing",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.",
+    "slug": "Power Over Ethernet (PoE)",
+    "description": "Power Over Ethernet (PoE) teknolojisi, ethernet kablosuyla veri ve elektrik gücünün tek bir kabloda güvenli bir şekilde taşınmasını sağlayan teknolojidir",
     "tags": [
       "#dolor",
       "#color"
     ],
-    "coverImage": "public/assets/1648738985918_cover.jpg",
+    "coverImage": "public/assets/1651736970285_Aruba_Networks_logo.svg.png",
     "author": {
       "createdAt": 1648739082811,
       "ID": "e732fed6-7c54-4f29-97da-ff49a6b0b887",
@@ -25,7 +25,8 @@
       "createdAt": 1648739041550,
       "ID": "6139df3d-35ff-4d1b-8f68-545c3df622f2",
       "url": "public/assets/1648739038350_cover.jpg"
-    }
+    },
+    "updatedAt": 1651736973710
   },
   {
     "createdAt": 1648739260962,
