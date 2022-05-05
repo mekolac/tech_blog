@@ -20,8 +20,8 @@ author:
 ogImage:
   createdAt: 1648739041550
   ID: "6139df3d-35ff-4d1b-8f68-545c3df622f2"
-  url: "public/assets/1651737142487_denge logo_siyah.png"
-  updatedAt: 1651737144306
+  url: "public/assets/1651737297546_denge logo.png"
+  updatedAt: 1651737297980
 updatedAt: 1651736973710
 
 ---
