@@ -14,8 +14,9 @@ coverImage: "public/assets/1651736970285_Aruba_Networks_logo.svg.png"
 author:
   createdAt: 1648739082811
   ID: "e732fed6-7c54-4f29-97da-ff49a6b0b887"
-  name: "JJ Kasper"
-  picture: "public/assets/1648739081698_jj.jpeg"
+  name: "Denge Blog"
+  picture: "public/assets/1651737084493_denge logo_siyah.png"
+  updatedAt: 1651737087980
 ogImage:
   createdAt: 1648739041550
   ID: "6139df3d-35ff-4d1b-8f68-545c3df622f2"
