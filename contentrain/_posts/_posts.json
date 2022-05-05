@@ -60,18 +60,18 @@
   },
   {
     "createdAt": 1648739428683,
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.\n\nVenenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.\n\n## Lorem Ipsum\n\nTristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.",
-    "title": "Preview Mode for Static Generation",
+    "content": "\nPandemiyle birlikte hayatımıza giren uzaktan çalışma hayatımızın bir parçası haline geldi. Bu süreç işletmeler iş uygulamalarını güvenlik endişesi olmadan kullanmak için çözümler aramaya itti. Ayrıca artan IoT cihazları da tüm bu süreçleri güvenlik açısından çok daha önemli bir konuma getirdi. Böylesine bir atmosfer içerisinde 2022 ağ teknolojileri trendi tahminlerimiz işte burada. \n\nİnternete Bağlı Cihaz Sayısı İnsan Sayısını Geçmeye Devam Edecek\n\nDijital dönüşüm, IoT cihazlarının çoğalmasına imkan veriyor ve Makineden Makineye (M2M) iletişim hızla büyüyor. Bugün internete bağlı cihazların sayısı insanları 5:1 oranında geride bırakıyor. Önümüzdeki üç yıl içinde, insanlara kıyasla 10 kat daha fazla bağlı cihazın kullanıma girmesi öngörülüyor ve bu da IoT cihazların bağlantı güvenliğini çok önemli bir pozisyona taşıyor. Bu cihazları kurmak, tedarik etmek ve güvence altına almak için otomatize edilmiş bir yol olmadan, işletmeler sürekli olarak karmaşıklaşan güvenlik tehditlerine karşı savunmasız kalacaktır.\n\n\nWi-Fi 6E'ye Geçiş Hızlanacak\n\nSon zamanlarda 5G teknolojisine karşı ilgi büyük olsa da, Wi-Fi 6E'ye hızlı bir geçişin eşiğindeyiz. Wi-Fi 6E, geriye dönük uyumluluğu korurken ek 1200 MHz yeni spektrumla yüksek kapasite sunar. 2022'de Wi-Fi 6E’nin kurumsal AP'lerde kullanımının yüzde 200'ün üzerinde bir büyüme bekliyor. Bu durum özellikle video konferans ve uzaktan eğitim gibi yüksek bant genişliği gerektiren kullanımlarda büyük kolaylık sağlayacak.\n\n\n\nNaaS Gibi Tüketime Dayalı Hizmetler Daha Fazla Talep Görecek\n\nİşletmeler teknoloji yatırımlarının işlerine olan faydasına oldukça odaklanıyor. BT verimliliğini artırırken ve yeniliklere ayak uydururken daha fazla finansal esneklik ve maliyet öngörülebilirliğini de göz önünde bulunduruyorlar. Network As A Service (NaaS)'ın sağladığı esnek altyapı tüketim modeli, tüm bunlara imkan tanıyor ve tam olarak kapsamlı BT altyapısı kurmaya hazır olmayan kuruluşlar için, esnek tüketim modelleri \"satın almadan önce deneme\" seçeneği sunar, böylece işletmeler yeni modeli kendi hızlarında benimseyebilir veya benimsemeyebilir. Bu, 2022'de NaaS gibi tüketime dayalı hizmetlere olan talepte büyük bir artışa neden olacak.\n\nTahminlerimiz sizinkilerle örtüşüyor mu?\n\n\n",
+    "title": "2022’nin En Önemli Ağ Teknoloji Trendleri",
     "categories": [
       "lorem"
     ],
     "ID": "2f9224a8-8a7f-4ded-b983-408aaeeae180",
-    "slug": "preview",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.",
+    "slug": "Network Trendleri",
+    "description": "Pandemiyle birlikte hayatımıza giren uzaktan çalışma hayatımızın bir parçası haline geldi. Bu süreç işletmeler iş uygulamalarını güvenlik endişesi olmadan kullanmak için çözümler aramaya itti. Ayrıca artan IoT cihazları da tüm bu süreçleri güvenlik açısından çok daha önemli bir konuma getirdi. Böylesine bir atmosfer içerisinde 2022 ağ teknolojileri trendi tahminlerimiz işte burada. \n",
     "tags": [
       "tas"
     ],
-    "coverImage": "public/assets/1648739422825_cover.jpg",
+    "coverImage": "public/assets/1651737651774_Aruba_Networks_logo.svg.png",
     "author": {
       "createdAt": 1648739479178,
       "ID": "524c0608-83d6-4bb0-a833-3e2e4df14959",
@@ -82,6 +82,7 @@
       "createdAt": 1648739508370,
       "ID": "6dffe5d9-d6f1-4e2b-a4dc-3dada90ab412",
       "url": "public/assets/1648739507420_cover.jpg"
-    }
+    },
+    "updatedAt": 1651737660409
   }
 ]
