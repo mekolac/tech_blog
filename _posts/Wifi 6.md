@@ -14,8 +14,8 @@ author:
   createdAt: 1648739290435
   ID: "dbdaba40-b350-457e-a1e5-54a1c0c3de68"
   name: "Denge Blog"
-  picture: "public/assets/1651737855794_denge logo.png"
-  updatedAt: 1651737857345
+  picture: "public/assets/1651737928601_denge logo_auth.png"
+  updatedAt: 1651737929562
 ogImage:
   createdAt: 1648739317226
   ID: "672bd3a8-91c5-4a58-8bf3-cb9b8ec41622"
